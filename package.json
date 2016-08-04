@@ -1,0 +1,26 @@
+{
+  "name": "handlebars-helper-list2td",
+  "version": "1.0.0",
+  "description": "Build table>tr>td lists easily using similar to markdown syntax. For email coding.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dcode-Evo/handlebars-helper-list2td.git"
+  },
+  "keywords": [
+    "handlebars",
+    "helper",
+    "email",
+    "html",
+    "list"
+  ],
+  "author": "Aleksei Polechin (http://alek.be)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dcode-Evo/handlebars-helper-list2td/issues"
+  },
+  "homepage": "https://github.com/Dcode-Evo/handlebars-helper-list2td#readme"
+}
